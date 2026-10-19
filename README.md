@@ -24,7 +24,7 @@ Learnings
 •	Used different logics to be implemented in the code for different operations .Used HC-SR04 alongside servo motor and esp32 to implement the task which help me in better understanding of connecting different component to perform. 
 
 
-Wokvi Link-    ( https://wokwi.com/projects/478247409598268417 )
+WokWi Link-    ( https://wokwi.com/projects/478247409598268417 )
 
 Photo of ESP32 -  ( https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/ffjgc9xydeo1aw7qlijd )
  
